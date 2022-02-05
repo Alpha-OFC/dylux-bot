@@ -454,7 +454,7 @@ switch (command) {
  
  case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `────  *NeKotine  ┃ ᴮᴼᵀ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -2197,14 +2197,14 @@ if (isVoiceCommand && type === "audioMessage"){
     
 /**
  * comando principal VoiceCommand
- * créditos by @https://github.com/AlvioAdjiJanuar 
- * fix FG98
+ * créditos by @https://vm.tiktok.com/ZMLNSV3YV/
+ * fix Alpha
 */
 switch(VoiceCommand) {
   
  case 'menu': 
  case 'help':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `────  *NeKotine  ┃ ᴮᴼᵀ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -2212,7 +2212,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *Premium* : ${prem}
 
 ▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
+•  https://vm.tiktok.com/ZMLNSV3YV/
 
 ${readMore}
 ${menu(prefix)} 
