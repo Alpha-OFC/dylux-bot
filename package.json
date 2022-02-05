@@ -61,10 +61,10 @@
     "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "FG98",
+  "author": "Alpha",
   "license": "MIT license",
   "bugs": {
-    "url": "https://github.com/FG98F/dylux-bot/issues"
+    "url": "https://gitHub.com/no-disponible"
   },
   "homepage": "https://github.com/FG98F/dylux-bot/"
 }
