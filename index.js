@@ -462,7 +462,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ⎔ *Premium* : ${prem}
 
 ▢ ${msg.cretb}
-• https://youtu.be/F4lGWb1WXgM 
+• https://youtube.com/channel/UCo44jyV3SwoWS4uy3kSfyrQ
 
 ${readMore}
 ${menu(prefix)} 
@@ -472,7 +472,7 @@ ${menu(prefix)}
     
    /*case 'menuvc': 
  case 'helpvc':
-    capt = `────  *DyLux  ┃ ᴮᴼᵀ*  ────
+    capt = `────  *NeKotine  ┃ ᴮᴼᵀ*  ────
     
 ${msg.hi} *${pushname}* ${ucapanWaktu}
     
@@ -489,19 +489,19 @@ ${menuVC}
     case 'groups': 
     case 'dylux': 
     gps = `
-≡  *DyLux  ┃ ᴮᴼᵀ*  GRUPOS
+≡  *NeKotine  ┃ ᴮᴼᵀ*  GRUPOS
 
 ▢ ${msg.gp} 1
-https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK
+No disponible
 
 ▢ ${msg.gp} 2
-https://chat.whatsapp.com/CDUqNRu5Kh5KY5uqQI0BKE
+No disponible
 
 ▢ ${msg.gp} 3
-https://chat.whatsapp.com/FSVDTytQxnTIPx8t8wBWeM
+No disponible
 
-▢ *YouTube*
-• https://www.youtube.com/fg98f
+▢ *TikTok*
+• https://vm.tiktok.com/ZMLNSV3YV/
 `
 m.reply(gps)
 break 
@@ -544,11 +544,11 @@ case 'lang':
 case 'creator':
 case 'creador': 
 case 'developer':
-/*number = '5493885839638@s.whatsapp.net'
+/*number = '34623442554@s.whatsapp.net'
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
     capt += '▢ Instagram : https://www.instagram.com/fg98._'
     await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://www.instagram.com/fg98._', mek)*/
-   Fg.sendContact(from, '5493885839638', 'FG98', mek) 
+   Fg.sendContact(from, '34623442555', 'Alpha', mek) 
     break
     
     case 'info':
@@ -579,8 +579,8 @@ case 'developer':
 ▢ Versi Wa : ${Fg.user.phone.wa_version}
 
 *≡ OWNER*
-▢ Instagram : https://www.instagram.com/fg98._
-▢ WhatsApp : wa.me/59172945992 
+▢ TikTok : https://vm.tiktok.com/ZMLNSV3YV/._
+▢ WhatsApp : wa.me/+34623442555 
 
 *≡ SCRIPT*
 ▢ Git : ${package.homepage} 
@@ -2299,9 +2299,9 @@ if (m.mtype == 'viewOnceMessage' && isViewonce === true){
 };
 
 /**
- * WhatsApp bot  baileys
+ * WhatsApp bot  NeKotine
  * 
  * Thank to 
- - https://github.com/MhankBarBar/weabot
- - https://github.com/Nurutomo/wabot-aq
+ - https://vm.tiktok.com/ZMLNSV3YV/
+ - https://vm.tiktok.com/ZMLNSV3YV/
 */
