@@ -548,7 +548,7 @@ case 'developer':
     capt = `▢ ${msg.num} : @${number.split('@')[0]}\n\n`
     capt += '▢ TikTok : https://vm.tiktok.com/ZMLNSV3YV/._'
     await Fg.fakeLink(from, capt, thumbfg, `${msg.click}`, 'https://vm.tiktok.com/ZMLNSV3YV/._', mek)*/
-   Fg.sendContact(from, '34623442555', 'Alpha', mek) 
+   Fg.sendContact(from, '34623442554', 'Alpha/NeKotine', mek) 
     break
     
     case 'info':
@@ -2010,7 +2010,7 @@ case 'delwelcome':
    try {
 	      ppimg = await Fg.getProfilePicture(who);
 	    } catch {
-	      ppimg = 'https://i.ibb.co/PZNv21q/Profile-FG98.jpg';
+	      ppimg = 'https://images.app.goo.gl/FZbpD9XuQa99cbKn8';
 	    }
 	welm = await getBuffer(ppimg)
    if(value.toLowerCase() === 'welcome') {
@@ -2047,7 +2047,7 @@ case 'simi':
 case 'bot':
 		 if (args.length < 1) return m.reply(`${msg.hi} _*${pushname}*_ ${msg.simn} *${prefix + command}* ${msg.simmsg} ${prefix + command} ${msg.hi} bot`)
 		result = await fetchJson(`https://api.simsimi.net/v2/?text=${value}&lc=${cekBahasa(who)}`, {method: 'get'})
-        m.reply(result.success.replace('simsimi', 'DyLux').replace('Simsimi', 'DyLux').replace('sim simi', 'DyLux'))
+        m.reply(result.success.replace('simsimi', 'Alpha').replace('Simsimi', 'Alpha').replace('sim simi', 'Alpha'))
                      break
  case 'suit':
  case 'ppt':
@@ -2217,7 +2217,7 @@ ${msg.hi} *${pushname}* ${ucapanWaktu}
 ${readMore}
 ${menu(prefix)} 
 `
-    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *DyLux  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
+    Fg.send3ButtonLoc(from, thumbfg, capt, `▢ *Alpha  ┃ ᴮᴼᵀ*\n▢ *Total Hits* : ${isTotalcmd}\n▢ *Usuarios* : ${User.length}\n▢ *Runtime* : ${kyun(process.uptime())}\n\n${msg.foll}`, `⦙☰ Menu Vc`, `${prefix}menuvc`, '✆ Owner', `${prefix}owner`, '⏍ Info', `${prefix}info`)
     break
   
   case 'google':
@@ -2267,7 +2267,7 @@ if(!isCmd && isChatbot === true){
  // if(!isPremium) return
   if(m.mtype == 'stickerMessage') return
   result = await fetchJson(`https://api.simsimi.net/v2/?text=${budy}&lc=${cekBahasa(who)}`, {method: 'get'})
-  m.reply(result.success.replace('simsimi', 'DyLux').replace('Simsimi', 'DyLux').replace('sim simi', 'DyLux'))
+  m.reply(result.success.replace('simsimi', 'Alpha').replace('Simsimi', 'DyLux').replace('sim simi', 'DyLux'))
 }
 
 // antiview once
