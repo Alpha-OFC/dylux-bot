@@ -1,7 +1,7 @@
 {
-  "name": "dylux-bot",
+  "name": "NeKotine-BOT",
   "version": "0.5.0",
-  "description": "WhatsApp Bot Baileys",
+  "description": "WhatsApp Bot NeKotine",
   "main": "main.js",
   "directories": {
     "lib": "library"
